@@ -11,10 +11,10 @@
             {
                "name":"LinkIt Smart 7688 Duo",
                "architecture":"avr",
-               "version": "0.1.7",
+               "version": "1.6.0",
                "category":"Contributed",
-               "url":"https://github.com/tuanhth95/linkit-smart-7688-duo-arduino/blob/main/mediatek_linkit_smart_7688_0.1.7.zip",
-               "archiveFileName": "mediatek_linkit_smart_7688_0.1.7.zip",
+               "url":"https://github.com/tuanhth95/linkit-smart-7688-duo-arduino/blob/main/mediatek_linkit_smart_7688_1.6.0.zip",
+               "archiveFileName": "mediatek_linkit_smart_7688_1.6.0.zip",
                "checksum": "SHA-256:ea4d010e7c4a8980542a196947a4f41ef22242f1d977e4c8ffb7a513f1ad4713",
 
                "size": "71699",
